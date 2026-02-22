@@ -3,5 +3,5 @@ Hola, me llamo Martín. Soy un estudiante de la carrera de Ciencias<br>de la Com
 
 # Tech Stack:
 
-[![Mis Habilidades](https://skillicons.dev/icons?i=py,cpp,java,spring,nodejs,express,js,ts,html,css,angular,bootstrap,mysql,mongodb,postgres,bash,powershell,linux,docker,aws,firebase,n8n,vscode)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=py,cpp,java,spring,nodejs,express,js,ts,html,css,angular,bootstrap,mysql,mongodb,postgres,bash,powershell,linux,docker,aws,firebase,vscode)](https://skillicons.dev)
 
